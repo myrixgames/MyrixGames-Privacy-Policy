@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - Myrix Tap My Colour</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#ffffff;
+    color:#111;
+    margin:0;
+    padding:0;
+    line-height:1.6;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:24px;
+}
+
+h1{
+    font-size:30px;
+    margin-bottom:6px;
+}
+
+h2{
+    margin-top:26px;
+    font-size:22px;
+}
+
+p{
+    margin:10px 0;
+}
+
+ul{
+    margin:10px 0 10px 22px;
+}
+
+.meta{
+    color:#444;
+    margin-bottom:20px;
+}
+
+.card{
+    background:#f6f6f6;
+    border:1px solid #e4e4e4;
+    border-radius:12px;
+    padding:16px;
+    margin-top:10px;
+}
+
+a{
+    color:#0b57d0;
+}
+
+footer{
+    margin-top:30px;
+    font-size:13px;
+    color:#555;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Privacy Policy</h1>
+
+<p class="meta">
+<strong>Game:</strong> Myrix Tap My Colour<br>
+<strong>Developer:</strong> Myrix Games<br>
+<strong>Effective Date:</strong> 13 March 2026<br>
+<strong>Last Updated:</strong> 13 March 2026
+</p>
+
+
+<h2>1. Introduction</h2>
+
+<p>
+Myrix Games ("we", "our", or "us") operates the game <strong>Myrix Tap My Colour</strong> (the “Game”).
+</p>
+
+<p>
+This Privacy Policy explains how information is handled when users play the Game on supported platforms including web browsers, Reddit, or mobile devices.
+</p>
+
+<p>
+By using the Game, you agree to the practices described in this policy.
+</p>
+
+
+<h2>2. Information We Collect</h2>
+
+<h3>a) Personal Information</h3>
+
+<p>
+The Game does <strong>not require users to create accounts</strong> or provide personally identifiable information such as:
+</p>
+
+<ul>
+<li>Full name</li>
+<li>Email address</li>
+<li>Phone number</li>
+<li>Address</li>
+<li>Contacts</li>
+<li>Precise location</li>
+</ul>
+
+
+<h3>b) Nicknames Submitted by Players</h3>
+
+<p>
+Players may optionally submit a nickname when recording a score on the global leaderboard.
+</p>
+
+<ul>
+<li>The nickname is chosen by the player</li>
+<li>It may be displayed publicly on the leaderboard</li>
+<li>It is limited to short non-identifying text</li>
+<li>Special characters may be filtered automatically</li>
+</ul>
+
+<p>
+Players are advised not to use real names or personal information as nicknames.
+</p>
+
+
+<h3>c) Gameplay Data</h3>
+
+<p>
+The Game may store limited gameplay information including:
+</p>
+
+<ul>
+<li>Score</li>
+<li>Game mode (Timed or Infinite)</li>
+<li>Time of score submission</li>
+</ul>
+
+<p>
+This information is used only to support gameplay features such as leaderboards.
+</p>
+
+
+<h3>d) Local Storage</h3>
+
+<p>
+The Game may store certain information locally on the user's device, including:
+</p>
+
+<ul>
+<li>Saved nickname</li>
+<li>Sound settings</li>
+<li>Tutorial preferences</li>
+<li>Gameplay configuration</li>
+</ul>
+
+<p>
+This data is stored only on the user's device and is not transmitted unless a player submits a score.
+</p>
+
+
+<h2>3. Leaderboards</h2>
+
+<p>
+If a player submits a score, the following information may be stored on a leaderboard service:
+</p>
+
+<ul>
+<li>Nickname</li>
+<li>Score</li>
+<li>Game mode</li>
+<li>Timestamp of submission</li>
+</ul>
+
+<p>
+Leaderboard information may be displayed publicly within the Game.
+</p>
+
+<p>
+No personal identity information is required or stored.
+</p>
+
+
+<h2>4. Third-Party Services</h2>
+
+<p>
+The Game may use third-party services to support certain features including:
+</p>
+
+<ul>
+<li>Backend leaderboard databases</li>
+<li>Hosting platforms</li>
+<li>Platform services such as Reddit</li>
+</ul>
+
+<p>
+These services operate under their own privacy policies and data practices.
+</p>
+
+
+<h2>5. Advertising (Future Versions)</h2>
+
+<p>
+Future versions of <strong>Myrix Tap My Colour</strong> may include advertising services such as Google AdMob.
+</p>
+
+<p>
+Advertising providers may collect certain information including:
+</p>
+
+<ul>
+<li>Device information</li>
+<li>Advertising identifiers</li>
+<li>IP address</li>
+<li>Interaction data</li>
+</ul>
+
+<p>
+Google Privacy Policy:
+<a href="https://policies.google.com/privacy" target="_blank">
+https://policies.google.com/privacy
+</a>
+</p>
+
+
+<h2>6. Analytics</h2>
+
+<p>
+The Game does not currently use analytics services.
+</p>
+
+<p>
+If analytics tools are introduced in future updates, this Privacy Policy will be updated accordingly.
+</p>
+
+
+<h2>7. Children's Privacy</h2>
+
+<p>
+The Game is suitable for general audiences.
+</p>
+
+<p>
+We do not knowingly collect personal information from children under the age of 13.
+</p>
+
+<p>
+If you believe personal information has been submitted by a child, please contact us and we will remove it.
+</p>
+
+
+<h2>8. Data Security</h2>
+
+<p>
+We take reasonable measures to protect stored data.
+</p>
+
+<p>
+Leaderboard data contains only gameplay information such as scores and nicknames.
+</p>
+
+
+<h2>9. Future Features and Services</h2>
+
+<p>
+Future updates of the Game may introduce additional features including but not limited to:
+</p>
+
+<ul>
+<li>Online leaderboards</li>
+<li>Cloud save systems</li>
+<li>Analytics services</li>
+<li>Advertising services</li>
+<li>Multiplayer features</li>
+<li>Account systems</li>
+</ul>
+
+<p>
+If such features are introduced, they may require limited gameplay or device information necessary for those features to function.
+</p>
+
+<p>
+Any such additions will comply with platform policies and privacy regulations.
+</p>
+
+
+<h2>10. Changes to This Privacy Policy</h2>
+
+<p>
+We may update this Privacy Policy periodically.
+</p>
+
+<p>
+Updates will be posted on this page with a revised “Last Updated” date.
+</p>
+
+
+<h2>11. Contact</h2>
+
+<div class="card">
+
+<p><strong>Developer:</strong> Myrix Games</p>
+
+<p><strong>Game:</strong> Myrix Tap My Colour</p>
+
+<p><strong>Email:</strong>
+<a href="mailto:myrixchallenge@gmail.com">
+myrixchallenge@gmail.com
+</a>
+</p>
+
+<p><strong>Country:</strong> India</p>
+
+</div>
+
+
+<footer>
+© 2026 Myrix Games. All rights reserved.
+</footer>
+
+</div>
+
+</body>
+</html>
